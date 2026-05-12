@@ -4,11 +4,10 @@
 Projeto criado utilizando Inteligência Artificial para desenvolver vídeos utilizados em campanhas de tráfego pago e marketing digital.
 
 ## 🤖 Tecnologias Utilizadas
-- ChatGPT
-- HeyGen
-- CapCut
-- Runway
-- Meta Ads
+- ChatGPT e Gemini (prompts)
+- ElevenLabs (audio)
+- CapCut e Davince Resolve (Edição)
+- Google AI Studio (Imagens dos avatares)
 
 ## 🧐 Processo de Criação
 Os criativos foram produzidos com ferramentas de IA generativa focadas em vídeos de alta retenção para campanhas digitais.
